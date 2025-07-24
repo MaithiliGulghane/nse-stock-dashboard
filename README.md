@@ -127,7 +127,8 @@ And looks like:
 
 **Your Name**
 AI, Data & Cloud Enthusiast
-[GitHub](https://github.com/MaithiliGulghane) | [LinkedIn](www.linkedin.com/in/maithili-gulghane-027ab3aa)
+[GitHub](https://github.com/MaithiliGulghane) 
+[LinkedIn](www.linkedin.com/in/maithili-gulghane-027ab3aa)
 
 ---
 
