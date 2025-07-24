@@ -127,7 +127,7 @@ And looks like:
 
 **Your Name**
 AI, Data & Cloud Enthusiast
-[LinkedIn](www.linkedin.com/in/maithili-gulghane-027ab3aa)
+[LinkedIn] www.linkedin.com/in/maithili-gulghane-027ab3aa
 
 ---
 
